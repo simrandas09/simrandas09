@@ -6,10 +6,11 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 - AI & Machine Learning (Python, TensorFlow, Pytorch, Keras)
 - Data Structures & Algorithms (JAVA, DSA)
 - Web Development (HTML5, CSS)
+  
 ![GitHub followers](https://img.shields.io/github/followers/simrandas09?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/simrandas09?label=Stars&style=social)
 
-<br/>  
+---
 
 
 ## Languages and Tools  
