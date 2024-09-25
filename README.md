@@ -16,14 +16,6 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 ## Languages and Tools  
 <div align="center">
   <!-- Programming Languages -->
-
-
-
- 
-
-
-
-
   
   <h3>Programming Languages</h3>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -37,11 +29,9 @@ I'm a passionate **Software Developer** with expertise in building scalable web 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original-wordmark.svg" alt="Github" height="50" /></a>  
+ <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://www.adobe.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe.svg" alt="Adobe" height="50" /></a>  
-  <a href="https://www.eclipse.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/eclipse.svg" alt="Eclipse" height="50" /></a>  
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matlab.svg" alt="MATLAB" height="50" /></a>
+  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
 
 
 
