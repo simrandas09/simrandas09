@@ -1,17 +1,11 @@
-## *Hi, I'm Simran Das*  
-  
+# Hi there 👋, I'm Simarn Das!
 
-### *Co-founder at Mirage & Co.*  
-  
+I'm a passionate **Software Developer** with expertise in building scalable web applications and open-source projects. I specialize in Data Science, focusing on creating scalable & innovative AI solutions.
 
-- ✨ I'm on a never-ending quest to code the next big thing.  
-  
-
-- ⽓ Let's team up and build scalable products.  
-  
-
-- 📧 Feel free to reach out to me at simrandas2022@gmail.com  
-  
+### Areas of Expertise:
+- AI & Machine Learning (Python, TensorFlow, Pytorch, Keras)
+- - Data Structures & Algorithms (JAVA, DSA)
+- Web Development (HTML5, CSS)  
 
 <br/>  
 
