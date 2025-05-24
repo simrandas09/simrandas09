@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Simran Das!
 
-I'm a passionate **Software Developer** with expertise in building scalable web applications and open-source projects. I specialize in Data Science, focusing on creating scalable & innovative AI solutions.
+I'm a passionate **Software Developer** with expertise in building scalable Mobile Applications and have an expertise in Artificial Intelligence. 
 
 ### Areas of Expertise:
 - AI & Machine Learning (Python, TensorFlow, Pytorch, Keras)
 - Data Structures & Algorithms (JAVA, DSA)
-- Web Development (HTML5, CSS)
+- App Development(Flutter, Firebase, Riverpod)
   
 ![GitHub followers](https://img.shields.io/github/followers/simrandas09?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/simrandas09?label=Stars&style=social)
