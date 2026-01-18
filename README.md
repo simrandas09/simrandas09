@@ -1,65 +1,91 @@
-# Hi there 👋, I'm Simran Das!
+# Hi there 👋, I'm Simran Das
 
-I'm a passionate **Software Developer** with expertise in building scalable Mobile Applications and have an expertise in Artificial Intelligence. 
+Aspiring **Reporting & Data Analyst** focused on turning raw data into clear, actionable insights using **SQL, Python and BI tools**. I enjoy building dashboards, running deep-dive analyses, and communicating findings that help drive business decisions.
 
-### Areas of Expertise:
-- AI & Machine Learning (Python, TensorFlow, Pytorch, Keras)
-- Data Structures & Algorithms (JAVA, DSA)
-- App Development(Flutter, Firebase, Riverpod)
-  
+---
+
+## 🔍 Areas of Interest
+
+- Reporting, insights & performance analytics (dashboards, KPI tracking, monitoring)
+- Customer behaviour, churn and lifetime value (CLV) analysis
+- Campaign / experiment analysis (cohort analysis, A/B testing)
+- End-to-end analytics delivery: from data extraction → cleaning → analysis → visualization → insight
+
+---
+
 ![GitHub followers](https://img.shields.io/github/followers/simrandas09?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/simrandas09?label=Stars&style=social)
 
 ---
 
+## 🛠️ Languages and Tools
 
-## Languages and Tools  
 <div align="center">
-  <!-- Programming Languages -->
-  
-  <h3>Programming Languages</h3>
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="SQL" height="50" /></a>  
-  <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="50" /></a>
- <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a> 
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
- <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>    
- <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
 
+**Data & Analytics**
 
+- SQL • MySQL  
+- Python (Pandas, NumPy, Scikit-learn)  
+- Tableau • Power BI  
+- Excel (advanced), Google Sheets  
 
-## Connect with me  
+**Programming & Other**
+
+- Java • Git • GitHub  
+- HTML • CSS  
+- TensorFlow • PyTorch • Keras (for ML projects)
+
+</div>
+
+---
+
+## 📊 Featured Data Projects
+
+- **Telecom Customer Churn Analysis & Prediction**  
+  Predictive model and EDA on telecom customer data to identify churn drivers and support targeted retention strategies.  
+
+- **Customer Lifetime Value & Engagement Modeling**  
+  CLV and segmentation project to group customers by value and behaviour and inform targeted offers.  
+
+- **Product / Engagement Dashboards**  
+  SQL + BI dashboards to monitor key product or learner KPIs and reduce manual reporting time.
+
+> Replace each bullet with links to your actual repos, for example:  
+> `- **[Telecom Customer Churn Analysis](https://github.com/yourrepo)** – short 1-line description`
+
+---
+
+## 🌐 Connect with me
+
 <div align="center">
 <a href="https://github.com/simrandas09" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://www.linkedin.com/in/simran-das-266b3324b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://instagram.com/simrnn.___" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+</a>
+</div>
 
-<br/>  
+---
 
-[![Simran`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simrandas09&theme=github-compact)](https://github.com/simrandas09/github-readme-activity-graph) 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrandas09&hide_border=true&layout=compact" alt="Top Languages on GitHub"></div>
+## 📈 GitHub Activity
 
-<br/>  
-
-*<div align="center">Let's connect and see where this goes.</div>*  
-  
+[![Simran's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simrandas09&theme=github-compact)](https://github.com/simrandas09/github-readme-activity-graph)
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=simrandas09&&style=flat-square" align="center" />
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrandas09&hide_border=true&layout=compact" alt="Top Languages on GitHub">
+</div>
 
-<br />
+---
+
+<div align="center">
+  Let's connect and build more data projects together.
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=simrandas09&&style=flat-square" />
+</div>
+/>
