@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Simran Das
 
-Aspiring **Reporting & Data Analyst** focused on turning raw data into clear, actionable insights using **SQL, Python and BI tools**. I enjoy building dashboards, running deep-dive analyses, and communicating findings that help drive business decisions.
+Aspiring **Business & Data Analyst** focused on turning raw data into clear, actionable insights using **SQL, Python and BI tools**. I enjoy building dashboards, running deep-dive analyses, and communicating findings that help drive business decisions.
 
 ---
 
@@ -37,21 +37,7 @@ Aspiring **Reporting & Data Analyst** focused on turning raw data into clear, ac
 
 </div>
 
----
 
-## 📊 Featured Data Projects
-
-- **Telecom Customer Churn Analysis & Prediction**  
-  Predictive model and EDA on telecom customer data to identify churn drivers and support targeted retention strategies.  
-
-- **Customer Lifetime Value & Engagement Modeling**  
-  CLV and segmentation project to group customers by value and behaviour and inform targeted offers.  
-
-- **Product / Engagement Dashboards**  
-  SQL + BI dashboards to monitor key product or learner KPIs and reduce manual reporting time.
-
-> Replace each bullet with links to your actual repos, for example:  
-> `- **[Telecom Customer Churn Analysis](https://github.com/yourrepo)** – short 1-line description`
 
 ---
 
