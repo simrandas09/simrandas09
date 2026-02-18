@@ -1,71 +1,51 @@
-# Hi there 👋, I'm Simran Das
-
-Aspiring **Business & Data Analyst** focused on turning raw data into clear, actionable insights using **SQL, Python and BI tools**. I enjoy building dashboards, running deep-dive analyses, and communicating findings that help drive business decisions.
-
----
-
-## 🔍 Areas of Interest
-
-- Reporting, insights & performance analytics (dashboards, KPI tracking, monitoring)
-- Customer behaviour, churn and lifetime value (CLV) analysis
-- Campaign / experiment analysis (cohort analysis, A/B testing)
-- End-to-end analytics delivery: from data extraction → cleaning → analysis → visualization → insight
+<h1 align="center">Hi 👋, I'm Simran Das</h1>
+<h3 align="center">Business • Product • Data | Founder’s Office @HireZapp | B2B SaaS</h3>
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/simrandas09?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/simrandas09?label=Stars&style=social)
+🎓 Final-year B.Tech CSE student working at the intersection of Business Strategy, Product Planning, and Data Analytics in a fast-paced B2B SaaS startup environment.
+
+🚀 Currently part of the Founder’s Office at HireZapp, where I contribute to:
+- Business & Product Strategy
+- KPI Tracking & Performance Monitoring
+- PRD Creation for Feature Development
+- Stakeholder Requirement Analysis
+- Data-informed Decision Making
+- Community Engagement via Email Automation
+
+📊 I focus on building analytical and deployable solutions that support business decision-making, improve operational workflows, and enable scalable execution for SaaS platforms.
 
 ---
 
-## 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
-<div align="center">
-
-**Data & Analytics**
-
-- SQL • MySQL  
-- Python (Pandas, NumPy, Scikit-learn)  
-- Tableau • Power BI  
-- Excel (advanced), Google Sheets  
-
-**Programming & Other**
-
-- Java • Git • GitHub  
-- HTML • CSS  
-- TensorFlow • PyTorch • Keras (for ML projects)
-
-</div>
-
-
+- **Languages:** Python, SQL  
+- **Analytics:** Pandas, NumPy, Power BI, Excel  
+- **Machine Learning:** Scikit-learn, XGBoost  
+- **MLOps:** MLflow, Optuna  
+- **Deployment:** FastAPI, Docker  
+- **Tools:** Git, GitHub, Google Sheets  
 
 ---
 
-## 🌐 Connect with me
+### 🚀 Featured Work
 
-<div align="center">
-<a href="https://github.com/simrandas09" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
-</a>
-<a href="https://www.linkedin.com/in/simran-das-266b3324b/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-</a>
-<a href="https://instagram.com/simrnn.___" target="_blank">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-</div>
+🔹 Telecom Customer Churn Prediction API  
+- Built an end-to-end churn prediction system for customer retention analysis  
+- Tuned XGBoost model using Optuna for improved performance  
+- Implemented MLflow for experiment tracking  
+- Deployed model via FastAPI for real-time predictions  
+- Containerized using Docker for scalable deployment  
+
+📈 Designed to support proactive retention strategies through probability-based churn scoring.
 
 ---
 
-## 📈 GitHub Activity
+### 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/simran-das09  
+- Portfolio: https://simrandev.vercel.app  
+- Email: simrandas2022@gmail.com
 
-[![Simran's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=simrandas09&theme=github-compact)](https://github.com/simrandas09/github-readme-activity-graph)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simrandas09&hide_border=true&layout=compact" alt="Top Languages on GitHub">
-</div>
-
----
 
 <div align="center">
   Let's connect and build more data projects together.
